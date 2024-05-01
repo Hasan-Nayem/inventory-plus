@@ -28,9 +28,11 @@ Inventory Plus is an inventory management application for bricks manufacturing c
 
 ![App Screenshot](https://i.ibb.co/HH1MMXZ/Screenshot-2024-05-01-173655.png)
 
+![App Screenshot](https://i.ibb.co/T4mZwG7/Screenshot-2024-05-01-173714.png)
+
 ![App Screenshot](https://i.ibb.co/R0WGs6q/Screenshot-2024-05-01-173807.png)
 
-![App Screenshot](https://i.ibb.co/T4mZwG7/Screenshot-2024-05-01-173714.png)
+
 
 
 ## 🔗 Links
